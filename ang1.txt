@@ -1,2 +1,4 @@
 //from notepad //
 -->Angular is a build on the top of typescript 
+---->from notepad change -1
+   [welcome to angular]
