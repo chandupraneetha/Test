@@ -1,7 +1,9 @@
 //from notepad //
+[from repo
 -->Angular is a build on the top of typescript 
 -->Now in order to work with angular we need to first install angular cli
 [-go to command prompt and type the command npm install -g @angular/cli
 -now choose any folder and in order to craete any angular application -type command ng new [your app name]
 -to start your application get into the project folder 
 ng serve]
+]
