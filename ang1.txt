@@ -1,0 +1,2 @@
+//from notepad //
+-->Angular is a build on the top of typescript 
