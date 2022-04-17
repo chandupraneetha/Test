@@ -1,0 +1,47 @@
+AGILE AND WATERFALL METHODOLOGY
+----------------------------------
+Both are used to develop software
+SOFTWAE DEVELOPMENT PROCESS IS A LONG ARDUOUS JOURNEY,MULTIPLE COMPONENTS OF SOFTWARE NEED TO BE DEVELOPED SIMULTANEOUSLY WITHIN A SHORT DEADLINE.
+Agile:
+Agile basically promotes shorter development lifecycles,it makes sure that the life cycle of a particiular software that is being produced is very short and thsi is because it need s to make sure that the customer feedback is priortized and the feedback is then used to make the changes in the next cycle,so if we looked at the cycle of agile we will see that there is planning,designing,testing,deploying,reviewing and launching,
+so this process keeps on repeating after receiving the feedback
+from the customers end or the clients end ,it ma y not be able to see wheer you only interecating with the customer ,you may have b2b where you have a  anither buisness client and they give you a feedback and once you receive that feedback you make the changes accordingly and then plan ahead for the nwxt sprint or the next deve;opment lifecycle even though you have very
+short term development lifecycles in agike you have mutiple of them and it keeps on continuing until the whole project is completely finished or the suppoert for the project has been closed or shutdown so if the we look at the benefits of teh agile there are few lets discuss them so the first benefit is 
+'TRANSPARENCY'  so this benefuit is for the customer or the client ,now if we have shorter term of development lifecycles and you always show your components to our customers and clients and you take the feeedback from them then the client and the customer know whats happening with your product or your service and accordingly they can tell you about the changes that they need and this way they are kept to date about what happeneing sinc the lifecycle in agile is so short  developers can only develop a few things  at a time ,so in every sprint a few things are developed and they are shown to the customer and they get teh feedback this way the customer is kept up to date with whats happening with the whole project ,
+NOW , other  benefit is predicatable costs and schedule ,so theis comes towards developers end, other producers end wher you are producing the software you need to be able to predict
+the cost that are going to be indulge with the project now if a project is going to take a long time to developthen its harder 
+to predict the cost ,because the variables over time incraese and teh are unknowm with shorter time your are able to predict the costs muck more effectively and you're able to schedule all the tasks much more effectively 
+NWXT benefit is 'ALLOWS FOR CHANGE'-now we know that todays market is very fickle ,the audience demand changes from one thing to another and they keep on chasing new trends every other second so to cope up with this chenge you need to use a mordern methodology like agile which allows you to change your direction of your project as a whole ,since you havea very shoert term life cycles you can change your goal very easily and *the last bebefit you are going to talk about is that is  improves quality by basically getting the feedback from the 
+customer or the client and then making the changes it improves the quality from tge perspective of the customer since they are able to ask for changes and the developers are allowed to make thoe changes improve  the quality of the product
+
+
+->based on the requirements there will be sprint planning session ,the requrement are divided into certain small story units,these units are placed in backlog list,what ever is kept in the backlog list which they feel most important they prioritize that ,the certain requirements has been divided into a small stories -=for each story developers will give a story points(mean it is like estimate hoe much time it will take to complte a zira(zira is nothing but its a way to control the story)-there wil be small requirememnt,there will samll acceptance criteria,once the coding is done ,wht the client think about his output(for eg: if there is a username ,password
+and with that if there is a small login story(what is the acceptance criteria of login,once user enters valid username and password,the person should successfully login to that page)
+based on the acceptance criteria the testing team will explain about there story points (so they will estimate how much time is require to complete the certain story),these stoey point will be based on the company,but there are different variations to this story points,for each story there  will be certain points given to that story,so these all disscussion will be done in sprint planning session
+sprint is nothing but a specific time(usually 2 weeks is given to complete the prioritized stories) everything(like develop,testing , and also it need to get released)needs to be done within a given time ,so they will discuss all these things in the sprint planning session ,whether we are able to compltee this task in a given time,in agile there will be a scrum meeting,there will a quick call for 15 min-20 min like that,in that meeting there will be a development team,QA team,buisnees analyst ,rarely client will also be included in the meeting,
+so they will discuss is there any problem blocking issues as per now ,is there any problem with qa,or any problem with the development teams ,is everything ok  then fine and then coming to developers how much the task has been completed ,these are discussion going on in this meeting ,and once immmediately te sprint planning session has been done what stories they have priortize based on that we will start writing the test cases, by the time the development is being done ,thet will w`rite the test cases , and parallely they will start there execution also because teh time period given for a particular stories is inly 2 weeks
+scrum master - this person responsibility is to organize the sprint planning session ,scrum meeting and everything,his reponsibility to other to make others to work under certain platform,at the sane time buisness analyst als work a scrum master,retrospective call will be organized by scrum master,who vger is there in the sprint planning session ,all of them will be included in this retrospective calls (development team,,testing team)-in this meeting they will discuss about the last sprint ,is there any changes we need to make to the last sprint ,in order to make it better( a lot of discussions will be made in order to solve the issues) so that there will no problem arrosed in the next sprint
+
+                  //Agile//
+changes from git hub test
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
