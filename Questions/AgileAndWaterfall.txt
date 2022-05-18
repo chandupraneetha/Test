@@ -23,7 +23,7 @@ so they will discuss is there any problem blocking issues as per now ,is there a
 scrum master - this person responsibility is to organize the sprint planning session ,scrum meeting and everything,his reponsibility to other to make others to work under certain platform,at the sane time buisness analyst als work a scrum master,retrospective call will be organized by scrum master,who vger is there in the sprint planning session ,all of them will be included in this retrospective calls (development team,,testing team)-in this meeting they will discuss about the last sprint ,is there any changes we need to make to the last sprint ,in order to make it better( a lot of discussions will be made in order to solve the issues) so that there will no problem arrosed in the next sprint
 
                   //Agile//
-changes from git hub test
+
 
 
 
